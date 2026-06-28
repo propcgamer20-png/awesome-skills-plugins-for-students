@@ -111,7 +111,7 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 
 - **[olegvg/resume-tailor-plugin](https://github.com/olegvg/resume-tailor-plugin)** - Claude Code plugin that tailors your resume to a job post.
 - **[JeanDiable/academic-research-plugin](https://github.com/JeanDiable/academic-research-plugin)** - Plugin for literature surveys, paper reviews, and citation management.
-- - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - AI coding agent plugin that compresses responses into concise caveman-style language, reducing token usage while preserving technical accuracy. Supports Claude Code, Codex, Cursor, Windsurf, Gemini CLI, Copilot, and 30+ other agents.
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - AI coding agent plugin that compresses responses into concise caveman-style language, reducing token usage while preserving technical accuracy. Supports Claude Code, Codex, Cursor, Windsurf, Gemini CLI, Copilot, and 30+ other agents.
 
 </details>
 
