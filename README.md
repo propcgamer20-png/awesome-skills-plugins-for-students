@@ -1,9 +1,13 @@
+<div align="center">
+
 # Awesome Skills & Plugins for Students
 
 A curated list of Claude Code, Cursor, and Copilot skills and plugins built for students: IB, IGCSE, college-bound, and anyone studying with an AI coding agent at their side.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+</div>
 
 This is a curation list, not a code library. Every entry below links out to a skill or plugin maintained in its own repo. Add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -60,7 +64,6 @@ Algorithm and debugging explainers, learn-to-code starters; distinct from profes
 
 - **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** - Turns any codebase into an interactive HTML course for beginners.
 - **[kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor)** - Personal tutor with adaptive quizzes and SM-2 spaced repetition.
-- **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Scans a repo and generates a complete open source file set.
 
 </details>
 
@@ -99,6 +102,7 @@ Personal statements, resume, interview prep.
 
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - Resume optimization, ATS scoring, and interview prep skills.
 - **[varunr89/resume-tailoring-skill](https://github.com/varunr89/resume-tailoring-skill)** - AI-powered resume tailoring for specific job descriptions.
+- **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 
 </details>
 
