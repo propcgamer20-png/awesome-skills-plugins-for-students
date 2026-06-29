@@ -59,6 +59,8 @@ Spaced repetition, time and task management, focus.
 - **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** - Builds animation-rich HTML presentations from scratch or converted from PowerPoint files.
 - **[anthropics/skills — docx](https://github.com/anthropics/skills/tree/main/skills/docx)** - Creates and edits Word documents with tracked changes, comments, and formatting.
 - **[anthropics/skills — xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)** - Creates and analyzes spreadsheets with formulas, charts, and data cleaning.
+- **[sickn33/antigravity-awesome-skills — examprep-ai](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/examprep-ai)** - Converts syllabi, past papers, or notes into a ranked High Score Roadmap with MCQs and question prediction.
+- **[sickn33/antigravity-awesome-skills — bulletmind](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/bulletmind)** - Converts any input into clean hierarchical bullet points for note-taking and summarization.
 
 </details>
 
@@ -76,6 +78,7 @@ Algorithm and debugging explainers, learn-to-code starters; distinct from profes
 - **[mattpocock/skills — git-guardrails-claude-code](https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code)** - Blocks dangerous git commands (push, reset --hard, clean) via Claude Code hooks.
 - **[ComposioHQ/awesome-claude-skills — developer-growth-analysis](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/developer-growth-analysis)** - Analyzes your Claude Code chat history to surface coding patterns and learning gaps.
 - **[ComposioHQ/awesome-claude-skills — artifacts-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/artifacts-builder)** - Builds multi-component React/Tailwind HTML artifacts for interactive demos and projects.
+- **[sickn33/antigravity-awesome-skills — code-documentation-code-explain](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/code-documentation-code-explain)** - Explains complex code through narratives, visual diagrams, and step-by-step breakdowns.
 
 </details>
 
@@ -102,6 +105,7 @@ Essay structuring, literature analysis, language learning.
 
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
 - **[ComposioHQ/awesome-claude-skills — content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
+- **[xwmxcz/papers-skill](https://github.com/xwmxcz/papers-skill)** - Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs.
 
 Know a literature analysis or language-learning skill? Be the first to add one, see [Contributing](#contributing).
 
@@ -134,6 +138,9 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 - **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)** - 140+ science skills covering biology, chemistry, medicine, and 100+ scientific databases.
 - **[obra/superpowers](https://github.com/obra/superpowers)** - 20+ skills for spec-to-code workflows with TDD, brainstorming, and subagent-driven planning commands.
 - **[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)** - Spec-driven development system: brainstorm → spec → plan → subagent execution.
+- **[dair-ai/dair-academy-plugins — youtube-notetaker](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/youtube-notetaker)** - Turns YouTube talks into local study notes with slides, transcripts, and editable annotations.
+- **[dair-ai/dair-academy-plugins — lesson-generator](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/lesson-generator)** - Generates multi-lesson HTML courses with flashcards, quizzes, objectives, and source links.
+- **[dair-ai/dair-academy-plugins — wiki-builder](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/wiki-builder)** - Builds and maintains structured research wikis with sources, compiled pages, and derived artifacts.
 
 </details>
 
