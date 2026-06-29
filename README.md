@@ -56,6 +56,9 @@ Spaced repetition, time and task management, focus.
 - **[mattpocock/skills — handoff](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff)** - Compresses a long study session into a handoff doc so a fresh agent can continue where you left off.
 - **[ComposioHQ/awesome-claude-skills — file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/file-organizer)** - Organizes files and folders, finds duplicates, and cleans up your digital workspace.
 - **[ComposioHQ/awesome-claude-skills — document-skills/pptx](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/document-skills/pptx)** - Creates, edits, and analyzes .pptx presentations.
+- **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** - Builds animation-rich HTML presentations from scratch or converted from PowerPoint files.
+- **[anthropics/skills — docx](https://github.com/anthropics/skills/tree/main/skills/docx)** - Creates and edits Word documents with tracked changes, comments, and formatting.
+- **[anthropics/skills — xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)** - Creates and analyzes spreadsheets with formulas, charts, and data cleaning.
 
 </details>
 
@@ -84,6 +87,7 @@ Math, physics, and chemistry problem-solving helpers.
 <summary>Show skills</summary>
 
 - **[googlarz/math-skill](https://github.com/googlarz/math-skill)** - Solves math problems step by step with built-in verification.
+- **[chrisvoncsefalvay/claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill)** - Builds interactive D3.js charts, graphs, and network diagrams for data analysis and reports.
 
 Know a physics or chemistry skill worth adding? Be the first, see [Contributing](#contributing).
 
@@ -127,6 +131,9 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 - **[olegvg/resume-tailor-plugin](https://github.com/olegvg/resume-tailor-plugin)** - Claude Code plugin that tailors your resume to a job post.
 - **[JeanDiable/academic-research-plugin](https://github.com/JeanDiable/academic-research-plugin)** - Plugin for literature surveys, paper reviews, and citation management.
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - AI coding agent plugin that compresses responses into concise caveman-style language, reducing token usage while preserving technical accuracy. Supports Claude Code, Codex, Cursor, Windsurf, Gemini CLI, Copilot, and 30+ other agents.
+- **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)** - 140+ science skills covering biology, chemistry, medicine, and 100+ scientific databases.
+- **[obra/superpowers](https://github.com/obra/superpowers)** - 20+ skills for spec-to-code workflows with TDD, brainstorming, and subagent-driven planning commands.
+- **[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)** - Spec-driven development system: brainstorm → spec → plan → subagent execution.
 
 </details>
 
