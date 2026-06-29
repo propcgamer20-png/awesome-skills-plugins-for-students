@@ -54,6 +54,8 @@ Spaced repetition, time and task management, focus.
 - **[hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit)** - AI learning coach with spaced repetition, syllabi, and progress tracking.
 - **[mattpocock/skills — teach](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach)** - Multi-session instructor that scaffolds HTML lessons, tracks learning records, and builds reference cheat sheets.
 - **[mattpocock/skills — handoff](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff)** - Compresses a long study session into a handoff doc so a fresh agent can continue where you left off.
+- **[ComposioHQ/awesome-claude-skills — file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/file-organizer)** - Organizes files and folders, finds duplicates, and cleans up your digital workspace.
+- **[ComposioHQ/awesome-claude-skills — document-skills/pptx](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/document-skills/pptx)** - Creates, edits, and analyzes .pptx presentations.
 
 </details>
 
@@ -69,6 +71,8 @@ Algorithm and debugging explainers, learn-to-code starters; distinct from profes
 - **[mattpocock/skills — diagnosing-bugs](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs)** - Disciplined debug loop: reproduce → minimize → hypothesize → instrument → fix.
 - **[mattpocock/skills — tdd](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd)** - Guides test-driven development with red-green-refactor cycles and behavior-focused tests.
 - **[mattpocock/skills — git-guardrails-claude-code](https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code)** - Blocks dangerous git commands (push, reset --hard, clean) via Claude Code hooks.
+- **[ComposioHQ/awesome-claude-skills — developer-growth-analysis](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/developer-growth-analysis)** - Analyzes your Claude Code chat history to surface coding patterns and learning gaps.
+- **[ComposioHQ/awesome-claude-skills — artifacts-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/artifacts-builder)** - Builds multi-component React/Tailwind HTML artifacts for interactive demos and projects.
 
 </details>
 
@@ -93,6 +97,7 @@ Essay structuring, literature analysis, language learning.
 <summary>Show skills</summary>
 
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
+- **[ComposioHQ/awesome-claude-skills — content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
 
 Know a literature analysis or language-learning skill? Be the first to add one, see [Contributing](#contributing).
 
@@ -108,6 +113,7 @@ Personal statements, resume, interview prep.
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - Resume optimization, ATS scoring, and interview prep skills.
 - **[varunr89/resume-tailoring-skill](https://github.com/varunr89/resume-tailoring-skill)** - AI-powered resume tailoring for specific job descriptions.
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
+- **[ComposioHQ/awesome-claude-skills — domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/domain-name-brainstormer)** - Generates domain name ideas and checks availability across TLDs for side projects.
 
 </details>
 
